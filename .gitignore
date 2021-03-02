@@ -1,0 +1,7 @@
+.vs/
+
+*.dll
+
+HeadLightsOffMod/bin/Debug/
+
+HeadLightsOffMod/obj/Debug/
